@@ -8,11 +8,9 @@ To run the solutions in this repository, you can use the provided development co
 
 ### Prerequisites
 
-    Make sure you have the following installed on your system
-
-    1. Docker
-    
-    2. Visual Studio Code (VS Code) with the Dev Containers extension
+Make sure you have the following installed on your system
+1. `Docker`
+2. `Visual Studio Code` (VS Code) with the `Dev Containers` extension
 
 ### Running with DevContainer
 
